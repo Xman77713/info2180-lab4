@@ -1,1 +1,24 @@
-body {background-color: #FFEEDD}
+* {font-family: 'Trebuchet MS', sans-serif; margin: 0%;}
+body {background-color: #DDEEFF;}
+header {background-color: #3366EE;}
+header .container {padding: 1.5% 5%; text-align: center;}
+h1 {color: white; font-size:48px;}
+
+main .container {padding: 1.5% 5%; margin: 1% 15%;}
+.instructions {font-size: 18px; font-weight: bold; margin: 1%}
+.search-form {margin: 1%; padding: 1.5% 0%; height: 24px;}
+.search-field {width: 89%; height: 100%;}
+.button {width: 9%; height: 100%; background-color: #AA3333; color: white; padding: 0%;}
+h2 {margin: 1%; padding: 1.5% 0%; font-size: 32px}
+hr {margin: 1%;}
+
+h3, h4, p, h5 {margin: 1%}
+h3 {color: #087766; font-size: 24px;}
+h4 {color: #665508; font-size: 18px;}
+#result p {color: #770808; font-size: 14px;}
+
+li {color: #660877; font-size: 18px; font-weight: bold;}
+
+
+
+h5 {color: red; font-size: 24px}
